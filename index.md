@@ -4,11 +4,11 @@ layout: home
 
 hero:
   name: "Simple VitePress Site"
-  text: "Training Page for Cloud Computing Course"
+  text: "Training Page for Cloud Computing Course :)"
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Markdown Examples!!!
       link: /markdown-examples
     - theme: alt
       text: API Examples
@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: AUFGABE 5   ANJA
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
